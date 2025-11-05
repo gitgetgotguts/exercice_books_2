@@ -25,13 +25,13 @@ Your task is to modify the initial script to scrape the **title** and **price** 
 
 
 ### HTML Structure:
-<li>  <!-- This is the 'book' variable -->
+``` <li>  <!-- This is the 'book' variable -->
   <article>
     <h3>
       <a> A Light in the ... </a>  <!-- The code grabs the text from here -->
     </h3>
   </article>
-</li>
+</li>```
 
 
 book:       <li ...>	        //This variable represents the entire list item (<li>) for a single book. It's our starting point.
