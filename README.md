@@ -51,7 +51,9 @@ This table lists the most important functions and attributes you will use from t
 | **`.text`**                      | An attribute that gets the text content from within a tag, with all HTML tags removed.                  | `title = book.h3.a.text`                               | [Link to `.text` docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#text) |
 | **`.get(attribute)`**            | Extracts the value from a tag's attribute (e.g., the `href` from a link or `src` from an image).          | `link = book.h3.a.get("href")`                         | [Link to attribute docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#attributes) |
 
-you can use list_of_li=soup.find(name="ol", class_="row").find_all(name="li")
+
+`list_of_li=soup.find(name="ol", class_="row").find_all(name="li")`
+
 this will give you a list of li under the ol with class=row
 ![example](ol-li.png)
 
