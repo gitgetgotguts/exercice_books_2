@@ -32,10 +32,14 @@ Your task is to modify the initial script to scrape the **title** and **price** 
       <a> A Light in the ... </a>  <!-- The code grabs the text from here -->
     </h3>
   </article>
-</li>```
+</li>
+```
+
 
 
 book:       <li ...>	        //This variable represents the entire list item (<li>) for a single book. It's our starting point.
+to extract the text from this example we use this format:
+**title=book.article.h3.a.text** (note: book is a beautifulsoup object.)this allow us to navigate HTML using **.** book.article.
 
 
 
