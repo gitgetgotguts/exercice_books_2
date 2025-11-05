@@ -123,7 +123,7 @@ Your main challenge is to go from page to page.
 </li>
 ```
 
-
+![example](ol-li.png)
 
 book:       <li ...>	        //This variable represents the entire list item (<li) for a single book. It's our starting point.
 
