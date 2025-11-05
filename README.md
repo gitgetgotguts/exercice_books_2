@@ -25,7 +25,8 @@ Your task is to modify the initial script to scrape the **title** and **price** 
 
 
 ### HTML Structure:
-``` <li>  <!-- This is the 'book' variable -->
+```
+<li>  <!-- This is the 'book' variable -->
   <article>
     <h3>
       <a> A Light in the ... </a>  <!-- The code grabs the text from here -->
