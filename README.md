@@ -51,6 +51,8 @@ This table lists the most important functions and attributes you will use from t
 | **`.text`**                      | An attribute that gets the text content from within a tag, with all HTML tags removed.                  | `title = book.h3.a.text`                               | [Link to `.text` docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#text) |
 | **`.get(attribute)`**            | Extracts the value from a tag's attribute (e.g., the `href` from a link or `src` from an image).          | `link = book.h3.a.get("href")`                         | [Link to attribute docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#attributes) |
 
+![example](ol-li.png)
+
 ---
 
 #### `pandas` Library
@@ -123,11 +125,10 @@ Your main challenge is to go from page to page.
 </li>
 ```
 
-![example](ol-li.png)
 
 book:       <li ...>	        //This variable represents the entire list item (<li) for a single book. It's our starting point.
 
-
+![example2](article.png)
 
 #### to extract the text from this example we use this format:
 **title=book.article.h3.a.text** (note: book is a beautifulsoup object.)this allow us to navigate HTML using **.** book.article.
