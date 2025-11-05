@@ -28,7 +28,10 @@ We are excited to continue this journey with you. Here are some of the topics we
 
 -   **Git & GitHub:** Learn how to manage your code and collaborate with others.
 -   **Data Analysis with Pandas:** Master the powerful library for cleaning and analyzing data.
--   **Building an AI RAG System:** Dive into the exciting world of AI by building a Retrieval-Augmented Generation model.
+-   **AI:**
+    -   **Embeddings & Similarity Matching:** Discover how AI understands meaning and finds relationships in data.
+    -   **Building an AI RAG System:** Apply your skills to build a cutting-edge Retrieval-Augmented Generation model from scratch.
+    -   **Prompt Engineering:** Learn how to talk to Large Language Models (LLMs) to get the best results.
 
 We hope you find these resources helpful. Happy coding
 
