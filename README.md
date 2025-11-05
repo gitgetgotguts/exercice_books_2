@@ -133,4 +133,7 @@ book:       <li ...>	        //This variable represents the entire list item (<l
 **title=book.article.h3.a.text** (note: book is a beautifulsoup object.)this allow us to navigate HTML using **.** book.article.
 
 
+**Good luck, and happy scraping!**
+
+
 
