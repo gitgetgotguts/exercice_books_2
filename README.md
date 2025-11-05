@@ -6,10 +6,11 @@ Think of this as your starting point. The real journey begins when you start exp
 
 ## Our Philosophy: Learn by Doing
 
-The most important skill you can develop is learning how to learn. Before you copy-paste any code, please **try to solve the challenges yourself**.
+The most valuable skill in tech is not knowing all the answers, but **knowing how to find them**. Before you copy-paste any code from our sessions, we challenge you to try **solving the problem on your own first**.
 
-Don't rely too much on us or on AI tools like ChatGPT. Get stuck, make mistakes, and let your curiosity guide you to the solution. That struggle is where real learning happens. Programming is a creative process, so be curious and have fun with it!
+Get stuck. Make mistakes. Break things. This is the path to true understanding. Don't rely too much on us or on AI tools like ChatGPT. Let your curiosity be your main guide.
 
+That struggle is where real learning happens. Programming is a creative process, so be curious and have fun with it!
 ## How This Repository Works
 
 This repository is organized into folders, one for each session.
