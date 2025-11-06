@@ -34,6 +34,8 @@ We are excited to continue this journey with you. Here are some of the topics we
     -   **Prompt Engineering:** Learn how to talk to Large Language Models (LLMs) to get the best results.
 
 We hope you find these resources helpful. Happy coding
+## Don't forget to leave your feedback Here:
+https://docs.google.com/forms/d/e/1FAIpQLSfmjbWqq339RpVrw-7P85_z9S244DnDdIuR5_N4WXM84BopIw/viewform
 
 ## Contributions
 
